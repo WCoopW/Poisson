@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoissonGen", "PoissonGen\PoissonGen.csproj", "{4060CDE3-F1B1-4DFF-B088-9D60C1E0FC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4060CDE3-F1B1-4DFF-B088-9D60C1E0FC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4060CDE3-F1B1-4DFF-B088-9D60C1E0FC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4060CDE3-F1B1-4DFF-B088-9D60C1E0FC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4060CDE3-F1B1-4DFF-B088-9D60C1E0FC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9799D07-78CA-4721-9ECB-D9F92D9D53E6}
+	EndGlobalSection
+EndGlobal
